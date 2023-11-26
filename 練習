@@ -3,7 +3,12 @@
 <head>
 　　<title>天気予報</title>
       <meta name="description"  content="毎日の情報をお知らせします。">
-<meta charset="UTF-8"
+        <meta charset="UTF-8">
 </head>
 </html>
+<body>
+ <header>
+<h1>天気予報</h1>
+ </header>   
+</body>
     
